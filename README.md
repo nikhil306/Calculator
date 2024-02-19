@@ -1,2 +1,2 @@
-# Calculator
-CODSOFT Task 2
+# CODSOFT3
+Calculator
